@@ -44,7 +44,7 @@ const Home = () => {
   }, []);
 
   return (
-    <section className="h-screen py-6 text-white">
+    <section className="lg:h-screen py-6 text-white">
       <div className="flex flex-col justify-center items-center gap-6 h-full px-4 md:px-8">
         <div className="mb-8">
           <div className="flex w-full flex-col justify-center items-center space-x-4 bg-gradient-to-r from-green-400 via-blue-500 to-purple-500 p-4 rounded-lg">
